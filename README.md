@@ -8,9 +8,11 @@ Cointracker app that lets you add/remove bitcoin addresses and retrieve address 
 - Run the following commands inside the virtual env.
 
 Install the app dependencies and packages:
-`pip install Django`
-`pip install djangorestframework`
-`pip install requests`
+```
+pip install Django
+pip install djangorestframework
+pip install requests
+```
 
 
 ## Migrations:
@@ -23,6 +25,7 @@ python3 manage.py migrate
 `python3 manage.py runserver`
 
 Note: port 8000 is used by default; however, it can be changed by specifying any other port e.g. 9000
+
 `python3 manage.py runserver 9000`
 
 
