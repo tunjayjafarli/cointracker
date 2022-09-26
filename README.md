@@ -1,5 +1,5 @@
 # cointracker
-Cointracker app that lets you add/remove bitcoin addresses and retrieve address related information such as transactions, balances etc. through REST API endpoints.
+Coin tracker app that lets you add/remove bitcoin addresses to your user account (wallet) and retrieve address related information such as transactions, balances etc. through REST API endpoints.
 
 ## Installation
 
